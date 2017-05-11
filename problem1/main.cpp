@@ -12,4 +12,9 @@ int main(){
     b = 7315;
     
     printf("gcd(%d,%d) = %d\n", a, b, gcd(a, b));
+
+    a = 15640;
+    b = 1037;
+
+    printf("gcd(%d,%d) = %d\n", a, b, gcd(a, b));
 }
