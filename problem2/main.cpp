@@ -24,5 +24,5 @@ int main(){
     }
 
     printf("\n");
-    printf("number of prime number: %d\n", primenum);
+    printf("The number of prime number: %d\n", primenum);
 }
